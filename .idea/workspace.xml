@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8882f9be-f96b-4ad0-9db5-e2f9c63b9bf0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WQMHNuYwqzJsLWvtl2DEMZetp8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="test" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8882f9be-f96b-4ad0-9db5-e2f9c63b9bf0" name="Default Changelist" comment="" />
+      <created>1579077276779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579077276779</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="557" y="-622" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579077629846">
+      <screen x="-255" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="557" y="-622" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.821/-255.-1057.1920.1057@-255.-1057.1920.1057" timestamp="1579077629846" />
+    <state x="375" y="-871" key="SettingsEditor" timestamp="1579077576816">
+      <screen x="-255" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="214" y="-890" key="SettingsEditor/0.23.1440.816/-255.-1057.1920.1057@-255.-1057.1920.1057" timestamp="1579077521263" />
+    <state x="375" y="-871" key="SettingsEditor/0.23.1440.821/-255.-1057.1920.1057@-255.-1057.1920.1057" timestamp="1579077576816" />
+  </component>
+</project>
